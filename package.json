@@ -1,0 +1,18 @@
+{
+  "name": "customized-random-string-generator",
+  "version": "1.1.2",
+  "description": "This package helps to generate random text/key",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "madhukar\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[DG.madhukar",
+  "license": "ISC",
+  "keywords": [
+    "custom",
+    "randome string generator npm",
+    "customized random string",
+    "random string",
+    "customized random string generator"
+  ]
+}
