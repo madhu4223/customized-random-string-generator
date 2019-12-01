@@ -22,7 +22,7 @@ Run below command to install this package
 
 ```
 
-var randomeGenerator = require('customized-random-string-generato');
+var randomeGenerator = require('customized-random-string-generator');
 
 randomeGenerator.generateRandomString({length:64})
 
